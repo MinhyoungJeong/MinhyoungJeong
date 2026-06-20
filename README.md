@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Minhyoung Jeong 👋
 
-<!--
-**MinhyoungJeong/MinhyoungJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering Student at Sookmyung Women's University
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Interested in Machine Learning
+- 📊 Data Science
+- 🌍 Climate AI
+- 🚀 AI Service Development
+
+---
+
+## Current Project
+
+### CDR Optima
+
+Carbon Removal Portfolio Optimization Platform
+
+Building an optimization system for carbon removal portfolio design using:
+
+- FastAPI
+- Next.js
+- PostgreSQL
+- Supabase
+- Python
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- NLP
+- Recommender Systems
+- Graph Neural Networks
